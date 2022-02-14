@@ -47,8 +47,8 @@ li {
 }
 /* aliniacion y centrado del contenido y texto asi como agregar un borde de 1px de color*/
 
-a:link a:visited a:active a:hover {
-    text-decoration: none;
+.linea {
+    text-decoration: none!important;
 }
 
 /*desactivacion de lineas o subrayado de hipervinculos*/
