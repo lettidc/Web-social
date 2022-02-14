@@ -1,0 +1,58 @@
+* {
+    font-size: 1em;
+}
+/*se especifica el tamño de fuente global*/
+/**/
+
+.pos {
+    width: 100%;
+    height: auto;
+    visibility: visible;
+}
+/*dimesiones del video y visibilidad*/
+
+.cor {
+    width: 97%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+/*se quita el paddin del contenedor y se especifica un ancho del 97%*/
+
+
+.centrado {
+    margin-left: 20%;
+}
+/*margen izquierdo del menu*/
+
+.boton {
+   margin-left: 40%;
+}
+/*margen izquierdo del boton colabora*/
+
+ul {
+    justify-content: center;
+    padding-left: 1em;
+}
+li {
+    
+    padding: 1em;
+}
+/*centrando contenido y espeficiando la distancia entre uno elemento y otro*/
+
+.donaciones {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    border: 1px #9494e6 solid;
+}
+/* aliniacion y centrado del contenido y texto asi como agregar un borde de 1px de color*/
+
+a:link a:visited a:active a:hover {
+    text-decoration: none;
+}
+
+/*desactivacion de lineas o subrayado de hipervinculos*/
+
+.dato {   
+    padding-left: 11em;
+}
